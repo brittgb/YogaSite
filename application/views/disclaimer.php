@@ -1,0 +1,24 @@
+<!--Disclaimer message-->
+<article class="main">
+	<h2 class="page_title">Disclaimer/ Privacy Notice</h2>
+	<p>
+		Britt has made reasonable efforts to ensure the accuracy of the information throughout this website.
+		However, Britt reserves the right to make appropriate changes in information found on this website.
+	</p>
+	<br />
+	<p>
+		Nothing contained in this website shall be construed as contractual rights.  Britt has many links to other websites.  This include links to websites operated by other government agencies, nonprofit organizations and private businesses.  Britt does not endorse any content or linked materials found on websites or web services provided by and/or developed by Britt.
+	</p>
+	<br />
+	<p>
+		When linked to another site, you are no longer on the Britt Barcroft Yoga website and this Privacy Notice will not apply.  When linked to another website, you are subject to the privacy policy of that new site.  
+	</p>
+	<br />
+	<p>
+		Britt does not warrant the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information.  Portions of such information may be incorrect or not current.  
+	</p>
+	<br />
+	<p>
+		Any person or entity that relies on any information obtained from this system does so at their own risk.
+	</p>
+</article>
